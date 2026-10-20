@@ -18,8 +18,8 @@ class perro(animal):
         super().__init__(nombre,edad,peso)
         self.raza=raza
 
-    def ladrar(self):
-        print("el perro esta ladrando",self.raza)
+    def caminar(self):
+        print("el perro esta caminando",self.raza)
 
 class gato(animal):
     def __init__(self,nombre,edad,peso,color):

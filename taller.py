@@ -57,10 +57,10 @@ class pato(animal):
 perro1=perro("luna",3,"23kg","pitbull")
 perro1.ladrar()
 
-perro2=perro("max",6,"45kg","doberman")
+perro2=perro("jose",6,"45kg","doberman")
 perro2.comer()
 
-gato1=gato("mishi",8,"10kg","negro")
+gato1=gato("daniel",8,"10kg","negro")
 gato1.maullar()
 
 gato2=gato("nube",5,"20kg","blanco")
